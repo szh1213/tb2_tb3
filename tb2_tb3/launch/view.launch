@@ -1,0 +1,3 @@
+<launch>
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find tb2_tb3)/rviz/tb2_tb3_slam.rviz" />
+</launch>

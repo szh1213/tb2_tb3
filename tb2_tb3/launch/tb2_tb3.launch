@@ -1,0 +1,5 @@
+<launch>
+  <include file="$(find tb2_tb3)/launch/tb2_tb3_house.launch"/>
+  <include file="$(find tb2_tb3)/launch/tb2_tb3_slam.launch"/>
+  <include file="$(find tb2_tb3)/launch/tb_map_merge.launch"/>
+</launch>
