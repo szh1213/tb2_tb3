@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>tb2_tb3</name>
+  <version>0.0.0</version>
+  <description>The package for turtlebot2 and turtlebot3 in gazebo</description>
+
+
+  <license>BSD</license>
+
+  <author>szh1213</author>
+  <author email="szh.1213@ctgu.edu.cn">szh123</author>
+  <maintainer email="szh.1213@ctgu.edu.cn">szh1213</maintainer>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>geometry_msgs</depend>
+
+
+  <export>
+
+  </export>
+</package>
